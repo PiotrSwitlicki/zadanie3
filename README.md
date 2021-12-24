@@ -1,3 +1,9 @@
+Zadanie 2. Plik CRM-X-TEST - treść w README.md
+Baza w pliku: crm_x (1).sql
+Tabela w aplikacji zrobiona przy pomocy migracji, ale pojawił się błąd, że w oryginalnej bazie aplikacji brakuje chyba tabeli history, więc tę już ręcznie w MYSQL dorobiłem, bo pokazywały się błędy z pojedynczymi błędami na podstawie, których dodawałem kolejne kolumny w w MYSQL. 
+
+
+
 # Test Task CRM-X
 
 This is a code extracted from a hypothetical complex CRM system "CRM-X"
